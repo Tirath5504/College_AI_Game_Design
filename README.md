@@ -1,4 +1,4 @@
-# AI Predator and Prey Game
+# AI Tom and Jerry Game
 
 ## Overview
 
