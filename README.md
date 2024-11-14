@@ -50,6 +50,10 @@ AI Predator and Prey is an interactive game where the player controls the prey (
 
 2. Use arrow keys to control Jerry and evade Tom for 30 seconds to win!
 
+## Demo Video
+
+![Demo Video](assets/demo.mp4)
+
 ## Game Components
 
 ### Game Flow
