@@ -52,7 +52,7 @@ AI Predator and Prey is an interactive game where the player controls the prey (
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/v9UViV03_aU/0.jpg)](https://www.youtube.com/watch?v=v9UViV03_aU)
+https://github.com/user-attachments/assets/74c97b0d-2be9-4aad-9f34-94b59d527550
 
 ## Game Components
 
